@@ -4,7 +4,7 @@
  <img src="https://user-images.githubusercontent.com/66792742/87241478-cf707100-c44d-11ea-8639-516d30b05fbd.png"><br>
  <b>Demo giao diện Dashboard:</b><br>
  <img src="https://user-images.githubusercontent.com/66792742/87222108-38e37780-c39b-11ea-935e-93ecb4f89a36.png"><br>
- <b>Note:</b> Tôi tạo nên Project PHP (Laravel) này nhằm mục đích phục vụ cho Project App Mobile (Android) của tôi - Source code App Android: https://github.com/leanhtuan-itp/Wallpapers-master/ <br>
+ <b>Note:</b> Tôi tạo nên Project PHP (Laravel) này nhằm mục đích phục vụ cho Project App Mobile (Android) của tôi - Source code App Android: https://github.com/leanhtuan-itp/Wallpapers/ <br>
  Link website: https://mywallpapers.epizy.com/ <br>
  Link API: https://mywallpapers.epizy.com/api/types/
  <b>Các chức năng của Project:</b> <br>
