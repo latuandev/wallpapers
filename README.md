@@ -1,4 +1,8 @@
 # Wallpapes website
+This project serves as a repository for precious memories. This source code architecture is not recommended due to the lack of a Repository pattern implementation.
+
+---
+
 <h2>Config on localhost</h2> <br>
 Step 1: Open <b>htdocs</b> directory and run the command <code>$ git clone https://github.com/latuandev/wallpapers.git</code> <br>
 Step 2: Download the <a href="https://drive.google.com/file/d/1-Gmcb0uWty1MS1Owm2aIt8h1eSjzaS99/view?usp=sharing" target="_blank">env</a> file and copy it to <b>wallpapers</b> directory then rename it to <b>.env</b><br>
